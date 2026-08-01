@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+
+# Environment
+.env
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Editors
+.idea/
+.vscode/
+*.log
